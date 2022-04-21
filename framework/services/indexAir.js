@@ -1,7 +1,7 @@
 import Airports from './airports.service';
 
-const api = () => ({
+const apiAir = () => ({
   Airports: () => ({ ...Airports}),
 });
 
-export default api;
+export default apiAir;

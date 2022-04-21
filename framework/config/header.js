@@ -1,5 +1,5 @@
-const token = {
+const header = {
     'Authorization': 'Token UmihPLfe4BwvuKHtmdCwR69H'
   };
 
-export default token;
+export default header;
